@@ -1,7 +1,7 @@
 # R_US_ImmigrationVisa_Study
 
 # Description
-This project offers an insightful statistical analysis of the origins of applicants seeking immigration to the United States. It focuses on understanding the distribution of applicants across different continents. The goal is to identify the continents that contribute significantly to the pool of US immigration applicants. The analysis utilizes the frequency and percentage of applicants from each continent to draw meaningful conclusions.
+This project offers an insightful statistical analysis of the origins of applicants seeking immigration in 2020 to the United States. It focuses on understanding the distribution of applicants across different continents. The goal is to identify the continents that contribute significantly to the pool of US immigration applicants. The analysis utilizes the frequency and percentage of applicants from each continent to draw meaningful conclusions.
 
 **Achievements**
 
