@@ -1,0 +1,208 @@
+Continent,Country,Capital,Currency,Official Language
+Africa,Algeria,Algiers,Dinar,Arabic
+Africa,Angola,Luanda, Kwanza, Portuguese
+Africa,Botswana,Gaborone,Pula,"English, Setswana"
+Africa,Burkina Faso,Ouagadougou,CFA franc,French
+Africa,Burundi,Bujumbura,Burundian franc,"Kirundi, French"
+Africa,Cameroon,Yaoundé,CFA franc,"French, English"
+Africa,Cape Verde,Praia,Cape Verdean escudo,Portuguese
+Africa,Central African Republic,Bangui,CFA franc,"French, Sango"
+Africa,Chad,N’Djamena,CFA franc,"French, Arabic"
+Africa,Comoros,Moroni,Comorian franc,"Comorian, Arabic,French"
+Africa,Congo,Brazzaville,CFA franc,French
+Africa,Ivory Coast,Yamoussoukro,CFA franc,French
+Africa,Democratic Republic of the Congo,Kinshasa,Congolese franc,French
+Africa,Djibouti,Djibouti,Djiboutian franc,"French, Arabic"
+Africa,Egypt,Cairo,Egyptian pound,Arabic
+Africa,Equatorial Guinea,Malabo,Equatorial Guinean peseta,"Spanish,French,Portuguese"
+Africa,Eritrea,Asmara,Tallero,"Tigrinya,Arabic,English"
+Africa,Ethiopia,Addis Ababa,Birr,Amharic
+Africa,Gabon,Libreville,CFA franc,French
+Africa,Gambia,Banjul,Gambian dalasi,English
+Africa,Ghana,Accra,Ghana cedi,English
+Africa,Guinea,Conakry,Guinean franc,French
+Africa,Guinea-Bissau,Bissau,CFA franc,Portuguese
+Africa,Kenya,Nairobi,Kenyan shilling,"Swahili, English"
+Africa,Lesotho,Maseru,Lesotho loti,"English, Sesotho"
+Africa,Liberia,Monrovia,Liberian dollar,English
+Africa,Libya,Tripoli,Dinar,Arabic
+Africa,Madagascar,Antananarivo,Malagasy ariary,"Malagasy, French"
+Africa,Malawi,Lilongwe,Kwacha,"English, Chichewa"
+Africa,Mauritania,Nouakchott,Ouguiya,Arabic
+Africa,Mauritius,Port Louis,Mauritian rupee,"Mauritian Creole, French"
+Africa,,,,English
+Africa,Morocco,Rabat,Moroccan dirham,"Arabic, Berber"
+Africa,Mozambique,Maputo,Mozambican metical,Portuguese
+Africa,Namibia,Windhoek,Namibian dollar,English
+Africa,Niger,Niamey,CFA franc,French
+Africa,Nigeria,Abuja,Naira,English
+Africa,Rwanda,Kigali,Rwandan franc,"Kinyarwanda, English"
+Africa,Senegal,Dakar,Dobra,Portuguese
+Africa,Seychelles,Victoria,Seychellois rupee,"Seychellois Creole,French"
+Africa,,,,English
+Africa,Sierra Leone,Freetown,Leone,English
+Africa,Somalia,Mogadishu,Somali shilling,"Somali, Arabic"
+Africa,South Africa,"Pretoria(administrative), Cape Town (Legislative), Bloemfontein (judicial)",South African rand,"Afrikaans, English, Venda"
+Africa,,,,"Xhosa, Zulu, Swazi"
+Africa,,,,"Tsonga, Tswana"
+Africa,South Sudan,Juba,South Sudanese pound,English
+Africa,Swaziland,"Mbabane, Lobamba",Lilangeni,"English, Swati"
+Africa,Tanzania,Dodoma (official),Tanzanian shilling,"Swahili, English"
+Africa,,Dar es Salaam (Government seat),,
+Africa,Togo,Lomé,CFA franc,French
+Africa,Tunisia,Tunis,Tunisian dinar,Arabic
+Africa,Uganda,Kampala,Ugandan shilling,"Swahili, English,Luganda"
+Africa,Zambia,Lusaka,Zambian kwacha,English
+Africa,Zimbabwe,Harare, Multiple currencies,"English, Shona"
+Asia,Country,Capital,Currency,Official Language
+Asia,Afganistan,Kabul, Afghani," Pashto, Dhari"
+Asia,Armenia,Yerevan, Dram, Armenian
+Asia,Azerbaijan,Baku, Manat, Azerbaijani
+Asia,Bahrain,Manama, Bahraini Dinar, Arabic
+Asia,Bangladesh,Dhaka, Taka,Bengali
+Asia,Bhutan,Thimphu,Bhutanese ngultrum, Dzongkha
+Asia,Brunei,Bander Seri Begawan, Brunei dollar, Bahasa Melayu
+Asia,Cambodia,Phnom Penh, Riel, Khmer
+Asia,China,Beijing, Renminbi (yuan), Mandarin
+Asia,Cyprus,Nicosia, Euro," Greek,Turkish"
+Asia,Georgia,Tbilsi, Lari, Georgian
+Asia,India,New Delhi, Rupee," Hindi, English"
+Asia,Indonesia,Jakarta, Rupiah,Indonesian
+Asia,Iran,Tehran, Rial, Persian
+Asia,Iraq,Baghdad, Iraqi Dianr," Kurdish, Arabic"
+Asia,Israel,Jerusalem, New Shekel," Hebrew, Arabic"
+Asia,Japan,Tokyo, Yen,Japanese
+Asia,Jordam,Amman, Jordanian dinar, Arabic
+Asia,Kazakhstan,Astana, Tenge," Kazakh, Russian"
+Asia,North Korea,Pyongyang, North Korean won, Korean
+Asia,South Korea,Seoul, South Korean Won, Korean
+Asia,Kuwait,Kuwait City, Kuwaiti dinar, Arabic
+Asia,Kyrgyzstan,Bishkek, Som," Kyrgyz, Russian"
+Asia,Laos,Vientiane, Kip,Lao
+Asia,Lebanon,Beirut, Lebanese pound, Arabic
+Asia,Malaysia,Kuala Lumpur, Ringgit, Malaysian
+Asia,Maldieves,Male, Maldivian rufiyaa, Maldivian
+Asia,Mangolia,Ulaanbaatar, Tögrög, Mongolian
+Asia,Myanmar,Naypyidaw, Kyat, Burmese
+Asia,Nepal,Kathmandu, Nepalese rupee, Nepali
+Asia,Oman,Muscat, Rial, Arabic
+Asia,Pakistan,Islamabad, Pakistani Rupee," English, Urdu"
+Asia,Philippines,Manila, Philippine Peso," Filipino, English"
+Asia,Qatar,Doha, Riyal,Arabic
+Asia,Russia,Moscow, Russian Ruble,Russian
+Asia,Saudi Arabia,Riyadh, Saudi riyal, Arabic
+Asia,Singapore,Singapore, Singapore dollar," English, Chinese"
+Asia,,,,"Malay, Tamil"
+Asia,Sri Lanka,Sri Jayawardenepura Kotte, Sri Lankan rupee," Sinhala, Tamil"
+Asia,Syria,Damascus, Syrian pound, Arabic
+Asia,Tajikistan,Dushanbe, Somoni, Tajik
+Asia,Thailand,Bangkok, Baht, Thai
+Asia,East Timor,Dili, US Dollar," Portuguese, Tetun"
+Asia,Turkey,Ankara, Turkish lira, Turkish
+Asia,United Arab Emirates,Abu Dhabi, UAE dirham, Arabic
+Asia,Uzbekistan,Tashkent, Uzbekistan som, Uzbek
+Asia,Vietnam,Hanoi, ??ng, Vietnamese
+Asia,Yemen,Sanaa, Yemeni rial, Arabic
+Europe,Country,Capital,Currency,Official Language
+Europe,Albania,Terana,Lek,Albanian
+Europe,Andorra,Andorra la Vella,Euro,Catalan
+Europe,Austraia,Vienna,Euro,German
+Europe,Belarus,Minsk,Belarusian Ruble,"Belarusian, Russian"
+Europe,Belgium,Brussels,Euro,"Dutch, German, French"
+Europe,Bosnia and Herzegovina,Sarajevo,Convertible mark,"Bosnian, Croatian,Serbian"
+Europe,Bulgaria,Sofia,Lev,Bulgarian
+Europe,Croatia,Zagreb,Kuna,Croatian
+Europe,Czech Republic,Prague,Czech koruna,Czech
+Europe,Denmark,Copenhagen,Danish Krone,Danish
+Europe,Estonia,Tallinn,Euro,Estonian
+Europe,Finland,Helsinki,Euro,"Finnish, Swedish"
+Europe,France,Paris,"Euro, Franc",French
+Europe,Germany,Berlin,Euro,German
+Europe,Greece,Athens,Euro,Greek
+Europe,Hungary,Budapest,Forint,Hungarian
+Europe,Iceland,Reykjavík,Icelandic króna,Icelandic
+Europe,Ireland,Dublin,Euro,"English, Irish"
+Europe,Italy,Rome,Euro,Italian
+Europe,Kosovo,Pristina,Euro,"Albanian, Serbian"
+Europe,Latvia,Riga,Euro,Latvian
+Europe,Liechtenstein,Vaduz,Swiss franc,German
+Europe,Lithuania,Vilnius,Euro,Lithuanian
+Europe, Luxembourg, Luxembourg, Euro," Luxembourgish,French,German"
+Europe,Macedonia,Skopje,Macedonian Denar,Macedonian
+Europe,Malta,Valletta,Euro,"Maltese, English"
+Europe,Moldova,Chi?in?u,Moldovan leu,Moldovan
+Europe,Monaco,Monaco,Euro,French
+Europe,Montenegro,Podgorica,Euro,French
+Europe,Netherlands,Amsterdam,"Euro, US dollar",Dutch
+Europe,,,NA guilder,
+Europe,Norway,Oslo,Norwegian krone,"Norwegian , Bokmål"
+Europe,Poland,Warsaw,Zloty,Polish
+Europe,Portugal,Lisbon,Euro,Portuguese
+Europe,Romania,Bucharest,Romanian Leu,Romanian
+Europe,Russia,Moscow,Russian Ruble,Russian
+Europe,San Marino,San Marino,Euro,Italian
+Europe,Serbia,Belgrade,Serbian dinar,Serbian
+Europe,Slovakia,Bratislava,Euro,Slovak
+Europe,Slovenia,Ljubljana,Euro,Slovene
+Europe,Spain,Madrid,Euro,"Spanish, Catalan"
+Europe,Sweden,Stockholm,Swedish krona,Swedish
+Europe,Switzerland,Bern,Swiss franc,"German, French, Italian"
+Europe,Ukraine,Kiev,Ukrainian hryvnia,Ukrainian
+Europe,United Kingdom,London,Pound sterling,English
+Europe,Vatican City,Vatican City,Euro,Italian
+Europe,,,,
+Oceania,Country,Capital,Currency,Official Language
+Oceania,Australia,Canberra,Australian Dollar,None (English is main spoken language)
+Oceania,Fiji,Suva,Fijian Dollar,Fiji Hindi (Hindustani)
+Oceania,Kiribati,South Tarawa, Kiribati Dollar, Kiribati
+Oceania,Marshall Islands,Majuro,US Dollar,Marshallese
+Oceania,Micronesia,Palikir,US Dollar, English
+Oceania,Nauru,Yaren, Australian Dollar, Nauruan
+Oceania,New Zealand,Wellington,New Zealand Dollar,"Maori, New Zealand Sign, English"
+Oceania,Palau,Ngerulmud, US Dollar,"Palauan, English"
+Oceania,Papua New Guinea,Port Moresby, Papua New Guinean kina," Tok Pisin, English, Hiri Motu"
+Oceania,Samoa,Apia, Samoan Tala,"Samoan, English"
+Oceania,Solomon Islands,Honiara, Solomon Islands dollar, English
+Oceania,Tonga,Nuku?alofa, Tongan pa?anga," Tongan, English"
+Oceania,Tuvalu,Funafuti, Tuvaluan Dollar," Tuvaluan, English"
+Oceania,Vanuatu,Port Vila,Vanuatu vatu,"Bislama, French, English"
+Oceania,,,,
+North America,Antigua and Barbuda,St. John’s,East Caribbean Dollar,English
+North America,Bahamas,Nassau,Bahamian Dollar,English
+North America,Barbados,Bridgetown,Barbadian Dollar,English
+North America,Belize,Belmopan,Belize Dollar,English
+North America,Canada,Ottawa,Canadian Dollar,"French, English"
+North America,Costa Rica,San José,Costa Rican colon,Spanish
+North America,Cuba,Havana,Cuban peso,Spanish
+North America,Dominica,Roseau,East Caribbean Dollar,English
+North America,Dominican Republic,Santo Domingo,Dominican peso,Spanish
+North America,El Salvador,San Salvador,U S Dollar,Spanish
+North America,Grenada,St. George’s,East Caribbean Dollar,English
+North America,Guatemala,Guatemala City,Guatemalan quetzal,Spanish
+North America,Haiti,Port-au-Prince,Haitian gourde,French
+North America,Honduras,Tegucigalpa,Honduran lempira,Spanish
+North America,Jamaica,Kingston,Jamaican Dollar,English
+North America,Mexico,Mexico City,Mexican peso,Spanish
+North America,Nicaragua,Managua,Nicaraguan cordoba,Spanish
+North America,Panama,Panama City,U S Dollar,Spanish
+North America,Puerto Rico,San Juan,U S Dollar,Spanish
+North America,Saint Kitts and Nevis,Basseterre,East Caribbean Dollar,English
+North America,Saint Lucia,Castries,East Caribbean Dollar,English
+North America,Saint Vincent and the Grenadines,Kingstown,East Caribbean Dollar,English
+North America,Trinidad and Tobago,Port of Spain,Trinidad and Tobago Dollar,English
+North America,United States,"Washington, D.C.",U S Dollar,English
+North America, Virgin Islands,Charlotte Amalie,U S Dollar,English
+North America,,,,
+South America,Country,Capital,Currency,Official Language
+South America,Argentina,Buenos Aires,Peso,Spanish
+South America,Bolivia,Sucre,Boliviano,"Spanish, Quechua, Aymara"
+South America,Brazil,Brasilia,Real,Portuguese
+South America,Chile,Santiago,Peso,Spanish
+South America,Columbia,Bogota,Peso,Spanish
+South America,Ecuador,Quito,US Dollar,Spanish
+South America,Guyana,Georgetown,Guyanese dollar,English
+South America,Paraguay,Asunción,Guaraní,"Spanish, Guaraní"
+South America,Peru,Lima,Nuevo sol,Spanish
+South America,Suriname,Paramaribo,Surinamese dollar,Dutch
+South America,Uruguay,Montevideo,Uruguayan peso,Spanish
+South America,Venezuela,Caracas,Bolívar fuerte,Spanish

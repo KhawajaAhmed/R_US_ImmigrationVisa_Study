@@ -1,0 +1,70 @@
+---
+title: 'Report: Analysis of US Immigration Applicants in 2020 by Continent'
+author: "Khawaja Hussain Ahmed\n"
+output: "github_document"
+---
+
+\
+\
+
+```{r, echo=FALSE}
+
+library(ggplot2)
+continent = read.csv("continent.csv")
+
+perc_applicants=round(prop.table(table(continent$Continent))*100,2)
+
+df_continent = data.frame(
+  continent = c("Africa", "Asia", "Europe", "North America","Oceania","South America"),
+  freq = c(55,49,48,26,16,13),
+  perc_applicants = c(26.57,23.67,23.19,12.56,7.73,6.28)
+)
+
+continent_order = c("South America", "Oceania", "North America", "Europe","Asia","Africa")
+df_continent$continent = factor(df_continent$continent, levels = continent_order)
+
+ggplot(data=df_continent, aes(x=freq,y=continent, fill=continent))+
+  geom_col(position="dodge", width=.5)+
+  scale_x_continuous(limits = c(0, 55), breaks = seq(0, 55, by = 5))+
+  theme(legend.position = "none")+
+  xlab("\nPercent of Applicants")+
+  ylab("Continent")+
+  scale_fill_manual(values=c("purple","red","green","blue","yellow","orange") 
+                 )+
+  theme(axis.title.y=element_text(angle=0))+
+   geom_text(
+    aes(label = paste0(perc_applicants,"%")),
+    position = position_dodge(width = 0.65),
+    hjust = 1.1,
+    size = 3,
+    color = c("black","black","white","black","white","white")
+  )
+
+```
+
+**Figure 1.** Bar graph showing continent of origin of all applicants for immigrant visas in 2020
+
+\
+\
+
+**Frequency of Applicants by Continent:**
+A bar chart was created to visualize the frequency of applicants from each continent. The chart provides a clear representation of the number of applicants originating from different parts of the world.
+
+<center><h2>  Key Findings  </h2> </center>     
+
+**Africa:** Africa represents a significant source of US immigration applicants, with 55 applicants. This continent is among the top contributors to the applicant pool, representing approximately 26.57% of the total applicants.
+
+**Asia:** Asia closely follows Africa with 49 applicants, accounting for 23.67% of the total applicants. It is another major contributor to US immigration.
+
+**Europe:** Europe is the continent of origin for 48 applicants, making up approximately 23.19% of the total applicant pool.
+
+**North America:** North America, which includes countries within the continent of North America, has 26 applicants. This region represents 12.56% of the total applicants.
+
+**Oceania:** Oceania, with 16 applicants, accounts for 7.73% of the total applicant pool.
+
+**South America:** South America has 13 applicants, representing 6.28% of the total applicants.
+
+**Conclusion:**
+The analysis of US immigration applicants by continent provides valuable insights into the geographical diversity of individuals seeking immigration to the United States. Africa, Asia, and Europe are the primary sources of applicants, contributing significantly to the overall applicant pool. This information is essential for understanding the geographic origins of immigration applicants and can assist policymakers and organizations involved in immigration-related activities.
+
+For a more detailed analysis, additional demographic and socio-economic factors, as well as historical and geopolitical factors, should be considered to gain a comprehensive understanding of the US immigration landscape.
